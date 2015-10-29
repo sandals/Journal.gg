@@ -6,7 +6,7 @@ League of Legend's ranked matchmaking.
 Setup and Install coming soon.
 
 ```javascript
-#config/secrets.js
+// ./config/secrets.js
 
 module.exports = {
   'riot_api_key': 'YOUR_API_KEY_HERE'
