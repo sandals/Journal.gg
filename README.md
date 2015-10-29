@@ -5,7 +5,7 @@ League of Legend's ranked matchmaking.
 
 Setup and Install coming soon.
 
-```
+```javascript
 #config/secrets.js
 
 module.exports = {
