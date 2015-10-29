@@ -1,0 +1,27 @@
+{
+  "name": "journalgg",
+  "version": "1.0.0",
+  "description": "League of Legends of ranked progress tracker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandals/Journal.gg.git"
+  },
+  "keywords": [
+    "League",
+    "of",
+    "Legends",
+    "LoL",
+    "Progress",
+    "Tracker"
+  ],
+  "author": "Brandon Newton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandals/Journal.gg/issues"
+  },
+  "homepage": "https://github.com/sandals/Journal.gg#readme"
+}
